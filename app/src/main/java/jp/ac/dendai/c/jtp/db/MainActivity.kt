@@ -9,7 +9,7 @@ class MainActivity : Activity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var game = Game(this)
+        val game = Game(this)
     }
 
 }
