@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DB</string>
+    <string name="default_result">結果は……</string>
+    <string name="default_my_choice">あなたの手は……</string>
+    <string name="default_enemy_choice">敵の手は……</string>
+    <string name="num">チャージ数:0</string>
+    <string name="attack">攻撃！</string>
+    <string name="charge">チャージ！</string>
+    <string name="guard">防御！</string>
+</resources>
